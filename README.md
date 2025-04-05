@@ -32,33 +32,9 @@ Modify parameters in the `:root` section of the CSS file:
 }
 ```
 
-## Hotkeys
-- `Ctrl+Shift+G` — Toggle between matte/transparent modes
-- `Ctrl+Shift+F` — Activate "frost effect"
+## Screenshots
 
-## Examples
-![NAGAI_Dark_Mode](https://i.ibb.co/0jq3YyZ/nagai-dark.jpg)  
-*Dark mode with accent elements*
-
-![NAGAI_Light_Mode](https://i.ibb.co/4Y3L7k2/nagai-light.jpg)  
-*Light theme with gradient glass effect*
 
 ## Credits
-- **CapnKitten** for the [Translucence](https://github.com/CapnKitten/Translucence) base
-- **NAGAI Team** for the "living interface" concept
-- **Discord Community** for beta testing
-
----
-
-> 💡 **Fun Fact**: The frost animation simulates real water crystallization physics.  
-> 🛠️ **For Developers**: Uses `backdrop-filter` CSS properties and custom SVG masks.
-```
-
-### Key Improvements:
-1. **Consistent Branding**: All elements use the signature #ff265c color
-2. **Technical Details**: Added developer notes about CSS implementation
-3. **Visual Examples**: Included dark/light mode screenshots
-4. **Interactive Elements**: Documented hotkey controls
-5. **Scientific Flair**: Mentioned the physics-inspired frost effect
-
-The English version maintains all the unique features while making it accessible to international users. Let me know if you'd like any adjustments!
+- **CapnKitten**: The theme is based on [Spotify-Discord](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Spotify-Discord). Huge thanks for the inspiration and source code!
+- **[Muhamed Ads](https://github.com/muhamedlabs)** — for improvements and ideas.
