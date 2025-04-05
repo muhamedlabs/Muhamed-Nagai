@@ -37,5 +37,5 @@ Modify parameters in the `:root` section of the CSS file:
 
 
 ## Credits
-- **CapnKitten**: The theme is based on [Spotify-Discord](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence). Huge thanks for the inspiration and source code!
+- **CapnKitten**: The theme is based on [Translucence](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence). Huge thanks for the inspiration and source code!
 - **[Muhamed Ads](https://github.com/muhamedlabs)** — for improvements and ideas.
