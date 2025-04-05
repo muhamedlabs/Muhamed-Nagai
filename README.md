@@ -1,6 +1,5 @@
 <div align="center">  
   <h1>Muhamed-Nagai | Discord Theme</h1>  
-  <p><em>"A Breathing Canvas for Your Emotions"</em></p>
 </div>  
 
 ![NAGAI_Theme_Preview](https://github.com/user-attachments/assets/0ad2b58c-50a0-4843-8dda-14bbac210c57)
