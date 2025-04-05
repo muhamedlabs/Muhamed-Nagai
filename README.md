@@ -6,7 +6,7 @@
 ![NAGAI_Theme_Preview](https://github.com/user-attachments/assets/0ad2b58c-50a0-4843-8dda-14bbac210c57)
 
 ## Description
-The **Muhamed-Nagai** theme is a minimalist Discord design inspired by the concept of a "window into mechanics." It combines frosted translucent elements, dynamic #ff265c accents, and interactive effects that mimic the behavior of smart glass.
+The **Muhamed-Nagai** theme is a minimalist Discord design inspired by the concept of a "window into mechanics." It combines frosted translucent elements, dynamic accents, and interactive effects that mimic the behavior of smart glass.
 
 ## Key Features
 - **Dynamic Glass**: Matte surfaces with transparent zones (adapts to background colors)
