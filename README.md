@@ -1,12 +1,12 @@
 <div align="center">  
-  <h1>NAGAI GLASS | Discord Theme</h1>  
+  <h1>Muhamed-Nagai | Discord Theme</h1>  
   <p><em>"A Breathing Canvas for Your Emotions"</em></p>
 </div>  
 
 ![NAGAI_Theme_Preview](https://i.ibb.co/rGdtvG1M/Nagai.png)
 
 ## Description
-The **NAGAI GLASS** theme is a minimalist Discord design inspired by the concept of a "window into mechanics." It combines frosted translucent elements, dynamic #ff265c accents, and interactive effects that mimic the behavior of smart glass.
+The **Muhamed-Nagai** theme is a minimalist Discord design inspired by the concept of a "window into mechanics." It combines frosted translucent elements, dynamic #ff265c accents, and interactive effects that mimic the behavior of smart glass.
 
 ## Key Features
 - **Dynamic Glass**: Matte surfaces with transparent zones (adapts to background colors)
