@@ -17,7 +17,7 @@ The **Muhamed-Nagai** theme is a minimalist Discord design inspired by the conce
 
 ## Installation
 1. Install [BetterDiscord](https://betterdiscord.app/) or [Vencord](https://vencord.dev/)
-2. Download the theme file (`Muhamed-Nagai.theme.css`)
+2. Download the theme file (`Muhamed-Nagai.css`)
 3. Move the file to the `Themes` folder in your BetterDiscord/Vencord directory
 4. Enable the theme in client settings
 
