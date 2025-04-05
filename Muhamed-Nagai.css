@@ -1,0 +1,96 @@
+/**
+ * @name Muhamed Nagai
+ * @version 1.8.6
+ * @description NAGAI GLASS: A breathing screen for emotions
+ * @author muhamedlabs and CapnKitten
+ * 
+ * @website https://muhamedlabs.pro
+ * @source https://github.com/CapnKitten/BetterDiscord
+ * @donate https://www.donationalerts.com/r/andremuhamad
+ */
+
+ @import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+
+ :root {
+     /* DYNAMIC BACKGROUND SYSTEM */
+     --app-bg: url('https://i.ibb.co/rGdtvG1M/Nagai.png');
+     --app-blur: 10px;
+     --app-margin: 15px;
+     --app-radius: 10px;
+     --app-backdrop-opacity: 0.9;
+     
+     /* NAGAI COLOR SYSTEM (#ff265c) */
+     --accent-hue: 346; /* HSV-значение для #ff265c */
+     --accent-saturation: 85%;
+     --accent-lightness: 57%;
+     --accent-opacity: 0.9;
+     --accent-text-color: hsl(0, 0%, 96%);
+     --nagai-accent: #ff265c; /* Основной цвет для всех элементов */
+     
+     /* LAYOUT COLORS */
+     --sidebar-color: hsla(0, 0%, 5%, 0.6);
+     --main-content-color: hsla(0, 0%, 8%, 0.5);
+     --sidebar-border-color: hsla(0, 0%, 100%, 0.08);
+     
+     /* MESSAGE SYSTEM */
+     --message-color: hsla(0, 0%, 10%, 0.5);
+     --message-radius: 8px;
+     --message-padding-top: 8px;
+     --message-padding-side: 10px;
+     --message-border: 1px solid hsla(346, 100%, 56%, 0.3); /* #ff265c с прозрачностью */
+     --message-highlight-color: hsla(346, 100%, 56%, 0.15); /* Акцентный цвет для выделения */
+     
+     /* TEXTAREA */
+     --textarea-color: 0, 0, 0;
+     --textarea-alpha: 0.2;
+     --textarea-alpha-focus: 0.3;
+     --textarea-text-color: hsl(0, 0%, 90%);
+     --textarea-radius: 18px;
+     --textarea-border: 1px solid hsla(346, 100%, 56%, 0.4); /* Более яркая граница */
+     
+     /* CARD SYSTEM */
+     --card-color: hsla(0, 0%, 8%, 0.5);
+     --card-color-hover: hsla(0, 0%, 12%, 0.7);
+     --card-color-select: hsla(346, 100%, 56%, 0.2); /* Акцент при выборе */
+     --card-shadow: 0 2px 8px rgba(255, 38, 92, 0.2); /* Тень с оттенком #ff265c */
+     
+     /* BUTTON SYSTEM */
+     --button-height: 34px;
+     --button-padding: 0 16px;
+     --button-radius: 16px;
+     --button-text-color: hsl(0, 0%, 96%);
+     --button-background: hsla(346, 100%, 56%, 0.7); /* Полупрозрачный #ff265c */
+     --button-hover-brightness: 1.15;
+     
+     /* SCROLLBAR */
+     --scrollbar-width: 8px;
+     --scrollbar-thumb-color: hsla(346, 100%, 56%, 0.4);
+     --scrollbar-thumb-hover-color: hsla(346, 100%, 56%, 0.8); /* Ярче при наведении */
+ }
+ 
+ /* Глобальные переопределения для #ff265c */
+ .accent, .selected, .active {
+     color: var(--nagai-accent) !important;
+ }
+ 
+ /* Анимации с акцентным цветом */
+ @keyframes nagaiPulse {
+     0% { box-shadow: 0 0 0 0 hsla(346, 100%, 56%, 0.4); }
+     70% { box-shadow: 0 0 0 10px hsla(346, 100%, 56%, 0); }
+     100% { box-shadow: 0 0 0 0 hsla(346, 100%, 56%, 0); }
+ }
+ 
+ /* Эффекты для интерактивных элементов */
+ .button:hover {
+     background: hsla(346, 100%, 56%, 0.9) !important;
+ }
+ 
+ /* Границы с акцентным цветом */
+ .guilds-wrapper, .channel-members {
+     border-right: 1px solid hsla(346, 100%, 56%, 0.2) !important;
+ }
+ 
+ /* Кастомный скроллбар */
+ ::-webkit-scrollbar-thumb {
+     background: var(--scrollbar-thumb-color) !important;
+ }
