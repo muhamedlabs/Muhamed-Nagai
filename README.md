@@ -33,6 +33,8 @@ Modify parameters in the `:root` section of the CSS file:
 ```
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/35166e80-cdcb-41a2-aa70-08008aa73565)
+![image](https://github.com/user-attachments/assets/ce447c44-9fbd-4318-8965-93f7fad5b393)
 
 
 ## Credits
